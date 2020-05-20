@@ -17,7 +17,7 @@ Fokusera på vad som ska göras och inte hur det ska göras.
 Det finns inga krav på att alla idéer i produktbeskrivningen ska implementeras utan denna del är till för att sätta en kontext kring den koden ni skriver i gruppuppgiften.
 
 ##### Tanks
-- Fordonstyp 
+- Fordonstyp  
 - Besättning 
 - Hästkrafter 
 - Hastighet
