@@ -10,14 +10,17 @@ För att Separera vad och hur, och för att generellt hålla ner den kognitiva l
 
 #### Produktbeskrivning
 
-Beskriv vad produkten gör, varför användaren går till siten och vilken nytta den gör. Fokusera på vad som ska göras och inte hur det ska göras. 
+Beskriv vad produkten gör: 
+varför användaren går till siten : 
+och vilken nytta den gör: 
+Fokusera på vad som ska göras och inte hur det ska göras. 
 Det finns inga krav på att alla idéer i produktbeskrivningen ska implementeras utan denna del är till för att sätta en kontext kring den koden ni skriver i gruppuppgiften.
 
 ##### Tanks
-##### Fordonstyp 
-##### Vikt 
-##### Hästkrafter 
-##### Hastighet
+- Fordonstyp 
+- Vikt 
+- Hästkrafter 
+- Hastighet
 
 #### Usecasebeskrivning
 
