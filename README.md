@@ -18,7 +18,7 @@ Det finns inga krav på att alla idéer i produktbeskrivningen ska implementeras
 
 ##### Tanks
 - Fordonstyp 
-- Vikt 
+- Besättning 
 - Hästkrafter 
 - Hastighet
 
