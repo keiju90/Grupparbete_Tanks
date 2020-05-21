@@ -53,3 +53,94 @@ DELETE - radera.
 #### Implementera
 När ni implementerar ska ni ta ett usecase i prioritetsordning och göra det helt färdigt, dvs. frontend, backend, modell, swagger och test (de moment som ingår i use caset) innan man går vidare till nästa use case.
 
+# SwedishTanksApi
+Swedish Tanks Api
+
+#### 
+    Hypertext as in Hypertext Markup Language (HTML)
+    Request response model:
+        Request message
+            Resources identified using a Universal Resource Identifier (URI)
+            Request Method
+            Headers, Body, query
+        Response
+            Response code
+            Headers och Body
+
+#### HTTP Methods: GET, Get a resource 
+```sh 
+curl -i -H "Content-Type:application/json" http://api.softhouse.rocks/posts/1  
+curl -H "Content-Type:application/json" http://api.softhouse.rocks/posts/1 | jq
+
+
+  Hypertext as in Hypertext Markup Language (HTML)
+    Request response model:
+        Request message
+            Resources identified using a Universal Resource Identifier (URI)
+            Request Method
+            Headers, Body, query
+        Response
+            Response code
+            Headers och Body
+
+```
+#### HTTP Methods: Post, Create a resource
+```sh
+
+ curl -i -X POST -H "Content-Type:application/json" http://api.SwedishTanks.tanks/posts  -d '{"title":"Hi, World", "body":"Fresh as morning dew", "tankId": "1"}'
+
+    Hypertext as in Hypertext Markup Language (HTML)
+    Request response model:
+        Request message
+            Resources identified using a Universal Resource Identifier (URI)
+            Request Method
+            Headers, Body, query
+        Response
+            Response code
+            Headers och Body
+```
+#### HTTP Methods: Delete
+```sh
+curl -X DELETE http://api.SwedishTanks.tanks/posts/3 
+
+    Hypertext as in Hypertext Markup Language (HTML)
+    Request response model:
+        Request message
+            Resources identified using a Universal Resource Identifier (URI)
+            Request Method
+            Headers, Body, query
+        Response
+            Response code
+            Headers och Body
+```
+#### HTTP Methods: Put
+```sh
+curl -X PUT http://api.SwedishTanks.tanks/posts/3  -H "Content-Type:application/json" -d  '{
+  "name": "Me Myself and I", ...}'
+
+    Hypertext as in Hypertext Markup Language (HTML)
+    Request response model:
+        Request message
+            Resources identified using a Universal Resource Identifier (URI)
+            Request Method
+            Headers, Body, query
+        Response
+            Response code
+            Headers och Body
+```
+#### HTTP Methods: Patch
+```sh
+curl -X PUT http://api.SwedishTanks.tanks/posts/3 -H "Content-Type:application/json" -d  '{
+  "name": "Me Myself and I", ...}'
+
+    Hypertext as in Hypertext Markup Language (HTML)
+    Request response model:
+        Request message
+            Resources identified using a Universal Resource Identifier (URI)
+            Request Method
+            Headers, Body, query
+        Response
+            Response code
+            Headers och Body
+```
+
