@@ -32,15 +32,27 @@ Beskriv lite mer detaljerat kring vilka use case användaren ska kunna utföra p
 Personer som vill bidra med information och svensk historik inom ämnet Swedish Tanks. 
 För varje tanks ska det visas en bild på just den tanken. 
 
-##### Admin - Ska kunna skriva in information.
+##### ADMIN - Ska kunna skriva in information.
 
-##### Tankviewers - Söka information. Fritext eller olika fält för rubrikerna? Fritext eller rullista? 
+##### TANKVIEWER - Söka information. Fritext eller olika fält för rubrikerna? Fritext eller rullista? 
 Skicka in förslag på information. 
 
 
 #### Prioritera
 Prioritera use case utifrån hur viktiga de är för att kunna realisera er produkt, viktiga delar vad användaren kan göra går före sådant som är trevligt men inte vitalt. Tänk kostnad och risk, vet vi hur vi ska lösa en feature, eller är det något vi behöver ta reda på. Ta hjälp av läraren för att dela upp features som innehåller mycket risk eller osäkerhet.
 Produktbeskrivningen ska finnas i ett gitrepo i README. Usecase ska finnas i antingen README eller ärenhanteringssystem typ trello eller liknande.
+
+#### TANKVIEWER
+GET - en/flera tanks med id/tanks för hela listan.  
+POST - skicka in förslag? 
+
+#### ADMIN 
+GET - en/flera tanks med id/tanks för hela listan.  
+POST - lägga till ny/skapa ifrån förslaget. 
+PUT - ändra. 
+DELETE - radera. 
+
+
 
 #### Implementera
 När ni implementerar ska ni ta ett usecase i prioritetsordning och göra det helt färdigt, dvs. frontend, backend, modell, swagger och test (de moment som ingår i use caset) innan man går vidare till nästa use case.
