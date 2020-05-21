@@ -69,8 +69,8 @@ Swedish Tanks Api
 
 #### HTTP Methods: GET, Get a resource 
 ```sh 
-curl -i -H "Content-Type:application/json" http://api.softhouse.rocks/posts/1  
-curl -H "Content-Type:application/json" http://api.softhouse.rocks/posts/1 | jq
+curl -i -H "Content-Type:application/json" http://api.SwedishTanks.tanks/posts/3   
+curl -H "Content-Type:application/json" http://api.SwedishTanks.tanks/posts/1 | jq
 
 
   Hypertext as in Hypertext Markup Language (HTML)
