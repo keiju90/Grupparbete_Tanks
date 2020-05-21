@@ -12,9 +12,26 @@ För att Separera vad och hur, och för att generellt hålla ner den kognitiva l
 
 #### Produktbeskrivning
 
-Beskriv vad produkten gör, varför användaren går till siten, och vilken nytta den gör.
+##### Beskriv vad produkten gör, varför användaren går till siten, och vilken nytta den gör.
 
-##### Tanks Rubriker
+##### Vad ska användaren göra?
+
+##### Tankviewer
+- Ska kunna gå in på sidan och söka på tanks. 
+- Kan söka på följande rubriker: 
+- Fordonstyp, 
+- Besättning, 
+- Hästkrafter, 
+- Hastighet. 
+
+##### Admin 
+- Logga in.
+- Skriver in nya tankobjekt, fält. 
+- Redigera befintliga objekt. 
+- Ta bort befintliga objekt.
+
+##### Objektet ska bestå av
+- Bild på stridsvagnen
 - Fordonstyp  
 - Besättning 
 - Hästkrafter 
@@ -33,7 +50,6 @@ För varje tanks ska det visas en bild på just den tanken.
 
 ##### TANKVIEWER - Söka information. Fritext eller olika fält för rubrikerna? Fritext eller rullista? 
 Skicka in förslag på information. 
-
 
 
 #### Prioritera
