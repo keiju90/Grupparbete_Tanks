@@ -14,17 +14,29 @@ Beskriv vad produkten gör:
 varför användaren går till siten : 
 och vilken nytta den gör: 
 Fokusera på vad som ska göras och inte hur det ska göras. 
-Det finns inga krav på att alla idéer i produktbeskrivningen ska implementeras utan denna del är till för att sätta en kontext kring den koden ni skriver i gruppuppgiften.
+Det finns inga krav på att alla idéer i produktbeskrivningen ska implementeras utan 
+denna del är till för att sätta en kontext kring den koden ni skriver i gruppuppgiften.
 
-##### Tanks
+##### Tanks Rubriken
 - Fordonstyp  
 - Besättning 
 - Hästkrafter 
 - Hastighet
+- Information om stridsvagnen
 
 #### Usecasebeskrivning
 
 Beskriv lite mer detaljerat kring vilka use case användaren ska kunna utföra på siten, baserat på produktbeskrvningen ovan. Beskriv i termer som att "visa", "skriva in", "redigera", "gilla". Tänk på vem som gör det om man har olika typer av användare.
+
+#### Vem ska använda sidan? 
+Personer som vill bidra med information och svensk historik inom ämnet Swedish Tanks. 
+För varje tanks ska det visas en bild på just den tanken. 
+
+##### Admin - Ska kunna skriva in information.
+
+##### Tankviewers - Söka information. Fritext eller olika fält för rubrikerna? Fritext eller rullista? 
+Skicka in förslag på information. 
+
 
 #### Prioritera
 Prioritera use case utifrån hur viktiga de är för att kunna realisera er produkt, viktiga delar vad användaren kan göra går före sådant som är trevligt men inte vitalt. Tänk kostnad och risk, vet vi hur vi ska lösa en feature, eller är det något vi behöver ta reda på. Ta hjälp av läraren för att dela upp features som innehåller mycket risk eller osäkerhet.
